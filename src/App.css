@@ -27,7 +27,7 @@ body, #root {
 .app-header {
   display: flex;
   align-items: center;
-  background-color: #123229;
+  background-color: #112e49;
   padding: 10px 20px;
   height: 60px;
   width: 100%;
@@ -124,17 +124,17 @@ body, #root {
 
 /* n8n Chat Widget Customization */
 :root {
-	--chat--color-primary: #123229;
+	--chat--color-primary: #112e49;
 	--chat--color-primary-shade-50: #0e2720;
 	--chat--color-primary-shade-100: #0a1c17;
-	--chat--color-secondary: #123229;
+	--chat--color-secondary: #112e49;
 	--chat--color-secondary-shade-50: #0e2720;
 	--chat--color-white: #ffffff;
 	--chat--color-light: #f2f4f8;
 	--chat--color-light-shade-50: #e6e9f1;
 	--chat--color-light-shade-100: #c2c5cc;
 	--chat--color-medium: #d2d4d9;
-	--chat--color-dark: #123229;
+	--chat--color-dark: #112e49;
 	--chat--color-disabled: #777980;
 	--chat--color-typing: #404040;
 
@@ -147,7 +147,7 @@ body, #root {
 
 	--chat--header-height: auto;
 	--chat--header--padding: var(--chat--spacing);
-	--chat--header--background: #123229;
+	--chat--header--background: #112e49;
 	--chat--header--color: var(--chat--color-white);
 	--chat--header--border-top: none;
 	--chat--header--border-bottom: none;
@@ -164,12 +164,12 @@ body, #root {
 	--chat--message--bot--background: var(--chat--color-white);
 	--chat--message--bot--color: var(--chat--color-dark);
 	--chat--message--bot--border: none;
-	--chat--message--user--background: #123229;
+	--chat--message--user--background: #112e49;
 	--chat--message--user--color: var(--chat--color-white);
 	--chat--message--user--border: none;
 	--chat--message--pre--background: rgba(0, 0, 0, 0.05);
 
-	--chat--toggle--background: #123229;
+	--chat--toggle--background: #112e49;
 	--chat--toggle--hover--background: #0e2720;
 	--chat--toggle--active--background: #0a1c17;
 	--chat--toggle--color: var(--chat--color-white);
